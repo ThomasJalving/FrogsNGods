@@ -1,0 +1,13 @@
+Up=W
+UpSecondary=Up
+Down=S
+DownSecondary=Down
+Left=A
+LeftSecondary=Left
+Rigth=D
+RigthSecondary=Right
+DebugRealmDown=I
+DebugRealmUp=U
+DebugTeleport=O
+DebugInvincible=J
+DebugShield=K

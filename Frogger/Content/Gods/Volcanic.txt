@@ -1,0 +1,4 @@
+-Agni-
+burstcooldown, cooldown, dangerChance, speed
+playerDeath,enterBiome,exitBiome,goodWord,badWord,goodAnswer,badAnswer,questionTimeout
+14,100,100,-3,3,1,1

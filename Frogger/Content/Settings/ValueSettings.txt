@@ -1,0 +1,5 @@
+Difficulty=1
+Volume=100
+FullScreen=0
+WindowedWidth=960
+WindowedHeigth=540

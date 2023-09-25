@@ -1,0 +1,70 @@
+How many different species of animals live in this cave?
+One
++Two
+Three
+Four
+Good. I'm glad to know you can count to two.
+Come on, it wasn't that hard. Can't you count to two?
+What is the difference between blue and green turtles?
++Color
+Nothing 
+Size
+I don't know
+Perfect.
+Are you colorblind?
+What do you think of natural light?
++Unnecessary
+Essential
++Useless
++Overrated
+Exactly, who needs light anyway.
+Wrong. These animals don't need it and neither do you.
+Which animal is the best pet?
+Dog
+Cat
++Bat
+Rabbit
+I'm glad you agree with me.
+I disagree, bats are better.
+What is the substance C6H12O6?
+Air
+Water
++Glucose
+Methane
+Good job!
+Wrong, never took chemistry lessons?
+For how many moves does the default Duskflower work?
+3
+5
+7
++10
+Good! I can tell you've been paying attention
+No, I would advise you to start counting
+How deep is the deepest cave in the world?
+1400
+1800
++2200
+2600
+Correct! Amazing, right.
+No, sadly not.
+What is you favourite color?
++Blue
+Yellow 
++Gray
++Purple
+I agree! You have good taste.
+No. Impossible, way too cheerful.
+What do you think of me?
++Smart
+Arrogant
+Annoying
++Kind
+Thank you!
+The feeling is mutual.
+How many turtles are in the largest possible group?
+2
+3
+4
+5
+Good! Nice observation.
+Wrong, learn to count.

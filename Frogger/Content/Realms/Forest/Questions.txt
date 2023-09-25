@@ -1,0 +1,70 @@
+What is your favourite color?
+Blue	
+Red
++Green
+Yellow
+Yes! The color of grass, leaves, turtles and frogs!
+Impossible! Nothing is more beautiful than the color of nature.
+Do you feel welcome in my forest?
++Of course!
+No
+I'm scared
+Please don't kill me
+I'm glad to hear it.
+Oh no, I'm sorry you feel that way.
+Is this too difficult for you?
++Yes
++Help me, please
+No
+Of course not
+Alright, let me make it a little bit easier for you then.
+Well, then I guess I need to make it a little more difficult
+How tall is the tallest tree on earth in metres?
+89
+94
+103
++116
+Correct! Impressive, right?
+Wrong, even taller!
+How many years does the average frog live?
+5
+9
++11
+14
+Correct!
+Sorry, that's incorrect.
+Who is your favourite god?
++Silva
+Zeus
++Enith
++Agni
+Interesting choice...
+Ugh, I can't stand the guy.
+How long can a Logfish grow?
++3
+4
+5
+6
+Correct! Nicely done.
+Not that long, no.
+Where does the beanstalk take you?
+Volcano
+Cave
+Nowhere
++Sky
+Good job, but I wouldn’t advise you to go there.
+No, it takes you to the sky.
+Why are you here?
++You
+By accident
++Tadpoles
+I don't know
+Oh! Well, I’m going to make your stay as pleasant as possible.
+Oh...okay...
+What can you buy in the shop?
+Shield
+Tadpoles
+Extra Lives
+Flower shield
+Indeed, they will make your life easier.
+Really? No, you can't buy your children in a shop.

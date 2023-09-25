@@ -1,0 +1,4 @@
+-Silva-
+burstcooldown, cooldown, dangerChance, speed
+playerDeath,enterBiome,exitBiome,goodWord,badWord,goodAnswer,badAnswer,questionTimeout
+14,100,40,-2,1,3,3

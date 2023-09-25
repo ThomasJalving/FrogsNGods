@@ -1,0 +1,4 @@
+-Enith-
+burstcooldown, cooldown, dangerChance, speed
+playerDeath,enterBiome,exitBiome,goodWord,badWord,goodAnswer,badAnswer,questionTimeout
+14,70,70,-1,1,5,5

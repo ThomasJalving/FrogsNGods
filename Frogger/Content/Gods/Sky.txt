@@ -1,0 +1,4 @@
+-Zeus-
+burstcooldown, cooldown, dangerChance, speed
+playerDeath,enterBiome,exitBiome,goodWord,badWord,goodAnswer,badAnswer,questionTimeout
+14,55,80,-1,3,4,1
